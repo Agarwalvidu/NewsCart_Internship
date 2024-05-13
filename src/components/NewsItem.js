@@ -11,7 +11,7 @@ const NewsItem=({title,description,url,newsUrl})=>{
               {description}
             </p>
             <a target="_blank" rel="noreferrer" href={newsUrl} className="btn btn-sm btn-dark">
-              Read News here
+              Read It...
             </a>
           </div>
         </div>
